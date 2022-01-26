@@ -1,0 +1,2 @@
+module aulajava {
+}

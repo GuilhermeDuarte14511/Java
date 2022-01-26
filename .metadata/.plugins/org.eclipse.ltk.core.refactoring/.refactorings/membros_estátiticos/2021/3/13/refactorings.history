@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;util.package-info.java&apos; to &apos;calculador.java&apos;&#x0D;&#x0A;- Original project: &apos;membros_estátiticos&apos;&#x0D;&#x0A;- Original element: &apos;util.package-info.java&apos;&#x0D;&#x0A;- Renamed element: &apos;util.calculador.java&apos;" description="Rename compilation unit &apos;package-info.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;util{package-info.java" name="calculador.java" references="false" stamp="1616286488128" version="1.0"/>
+</session>

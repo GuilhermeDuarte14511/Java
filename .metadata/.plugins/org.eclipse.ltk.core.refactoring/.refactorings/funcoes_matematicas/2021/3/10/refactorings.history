@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;exercicio1_condicionais.java&apos; to &apos;condicionais/src/condicionais&apos;&#x0D;&#x0A;- Original project: &apos;funcoes_matematicas&apos;&#x0D;&#x0A;- Destination element: &apos;condicionais/src/condicionais&apos;&#x0D;&#x0A;- Original element: &apos;funcoes_matematicas.exercicio1_condicionais.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=condicionais/src&lt;condicionais" element1="/src&lt;funcoes_matematicas{exercicio1_condicionais.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1615055085246" units="1" version="1.0"/>
+</session>

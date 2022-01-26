@@ -1,0 +1,27 @@
+package estrutura_repetitiva;
+import java.util.*;
+import java.util.Locale;
+import java.util.Scanner;
+
+public class tentativas {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Digite a Senha para entrar no programa");
+		Scanner sc = new Scanner(System.in);
+		
+		int senha = sc.nextInt();
+		int tentativas =1;
+		
+		while(senha != 2015) {
+			System.out.println("Digite a Senha Novamente");
+			senha = sc.nextInt();
+			tentativas ++;
+				if(tentativas == 3) {
+					System.out.println("O Sistema Foi Bloqueado");break;
+				}
+		}
+		sc.close();
+	}
+
+}
